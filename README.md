@@ -1,4 +1,17 @@
-# power-bi-sales-dashboard
-This project focuses on analyzing and visualizing sales data using Power BI to support data-driven business decisions. An interactive dashboard was developed to track revenue, sales trends, product performance, and regional analysis.
+## Power BI Sales Performance Dashboard
 
-The project involved creating DAX measures, using slicers and KPIs, and designing clear visualizations to identify top-performing products, high-revenue regions, and sales gaps. The dashboard enables users to dynamically filter data and gain quick insights into overall business performance.
+### Description
+Interactive Power BI dashboard built to analyze sales performance across products and regions.
+
+### Tools Used
+- Power BI
+- DAX
+- Excel
+
+### Key Features
+- Revenue & sales trend analysis
+- Product-wise and region-wise insights
+- KPIs and interactive slicers
+
+### Outcome
+Identified top-performing products and revenue gaps to support data-driven decisions.
